@@ -1,0 +1,14 @@
+# Node
+backend/node_modules/
+backend/.env
+
+# Terraform
+terraform/.terraform/
+terraform/*.tfstate
+terraform/*.tfstate.backup
+terraform/.terraform.lock.hcl
+terraform/terraform.tfvars
+
+# General
+.DS_Store
+*.log
